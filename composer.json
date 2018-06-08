@@ -24,7 +24,6 @@
 	     "providers":[
 	     	"Minng\\LaravelLang\\TranslationServiceProvider"
 	     ]
-	}
-    },
-    "minimum-stability":"dev"
+	  }
+    }
 }
