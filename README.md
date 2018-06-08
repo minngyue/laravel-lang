@@ -3,7 +3,7 @@
 
 本包绝大多数代码参考：[https://github.com/overtrue/laravel-lang](https://github.com/overtrue/laravel-lang)
 
-###使用方法
+###使用方法如下:
 ```shell
 composer require minng/laravel-lang "1.0*"
 
