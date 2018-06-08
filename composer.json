@@ -18,7 +18,9 @@
             "email": "zmyjgyx@163.com"
         }
     ],
-    "require": {},
+    "require": {
+      "caouecs/laravel-lang": "~3.0"
+    },
     "extra":{
     	"laravel":{
 	     "providers":[
