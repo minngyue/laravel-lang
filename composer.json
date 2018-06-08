@@ -1,5 +1,5 @@
 {
-    "name": "minng/laravel-lang",
+    "name": "minngyue/laravel-lang",
     "description": "languages for Laravel 5",
     "keywords":[
         "laravel",
@@ -14,7 +14,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "MinngYue",
+            "name": "minngyue",
             "email": "zmyjgyx@163.com"
         }
     ],
